@@ -1,0 +1,2 @@
+#!/bin/sh
+curl https://api.opencnam.com/v2/phone/+1408#######; echo
